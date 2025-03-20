@@ -1,6 +1,3 @@
-# Information-Assurance
- Associated with University of Maryland
- 
 # 🔐 Strengthening Security for Willy Wonka Industries  
 
 ## 📌 Overview  
